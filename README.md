@@ -33,9 +33,8 @@ Hi 👋, I'm **Reetikesh Choudhury**
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ReetikeshChoudhury) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reetikesh_17) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ReetikeshChoudhury) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ReetikeshChoudhury](https://www.linkedin.com/in/reetikesh-choudhury-3b2741302/?originalSubdomain=in) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reetikeshchoudhury002@gmail.com)
 
 ---
